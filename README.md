@@ -1,6 +1,4 @@
-# smart-contract-sanctuary
-🐦🌴🌴🌴🦕 A home for ethereum smart contracts verified on Etherscan. 🏠
-
+# 🏠 smart-contract-hoover
 
 | Folder       | Description   |
 | ------------ | ------------- |
@@ -41,7 +39,6 @@ Feel free to contribute smart contract sources, scripts for dumping sources or y
 * deduplication script (link instead of duplicate)
 * statistics
 * code-hash (without comments; maybe compile and hash bytecode to dedup sources)
-
 
 ## Citation
 If you are using this dataset in your research and paper, here's how you can cite this dataset: 
