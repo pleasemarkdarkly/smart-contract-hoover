@@ -36,6 +36,7 @@ Feel free to contribute smart contract sources, scripts for dumping sources or y
 
 ### TODO
 
+* dockerize 
 * deduplication script (link instead of duplicate)
 * statistics
 * code-hash (without comments; maybe compile and hash bytecode to dedup sources)
